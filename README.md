@@ -7,4 +7,10 @@
 4. Create a "/logout" api which will invalifdate the session of the user.
 5. For fast testing purpose use 1 min as max age of the session
 
-   Note: We would be using H2 database for storage.
+   Note: We would be using H2 database for storage.<br/>
+![](op1.PNG)<br/>
+![](op2.PNG)<br/>
+![](op3.PNG)<br/>
+![](op4.PNG)<br/>
+![](op5.PNG)<br/>
+![](op7.PNG)
